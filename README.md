@@ -1,7 +1,5 @@
 # user-hotel-rating-springboot-microservices
 This project is a microservices-based application developed using Spring Boot with three core service, Hotel, User and Rating
-# user-hotel-rating-springboot-microservices
-This project is a microservices-based application developed using Spring Boot with three core service, Hotel, User and Rating
 
     User Service: Manages user-related operations and uses MySQL for data persistence.
     Hotel Service: Handles hotel-related operations with a PostgreSQL database.
